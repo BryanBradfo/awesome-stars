@@ -257,7 +257,6 @@
 - [RickHolaaa/2020-discord-bot](https://github.com/RickHolaaa/2020-discord-bot) - 
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [RickHolaaa/2024-realtime-chat-app](https://github.com/RickHolaaa/2024-realtime-chat-app) - 
-- [BryanBradfo/react-github-pages](https://github.com/BryanBradfo/react-github-pages) - 
 
 ## Julia 
 
@@ -323,7 +322,6 @@
 - [BryanBradfo/avalanches-prediction](https://github.com/BryanBradfo/avalanches-prediction) - Predicting avalanche risk accurately for ensuring safety in mountainous regions :)
 - [BryanBradfo/reinforcement-learning](https://github.com/BryanBradfo/reinforcement-learning) - RL | Reinforcing the learning with Reinforcement Learning. :)
 - [BryanBradfo/physics-guided-ml](https://github.com/BryanBradfo/physics-guided-ml) - 🌌 Applying artificial intelligence on gravitational lensing 🪐
-- [ML4SCI/DeepLense](https://github.com/ML4SCI/DeepLense) - 
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [x-datascience-datacamp/datacamp-master](https://github.com/x-datascience-datacamp/datacamp-master) - Datacamp class for master student - 1 week
@@ -333,11 +331,6 @@
 - [BryanBradfo/diffusion-google-research](https://github.com/BryanBradfo/diffusion-google-research) - Replicating Classifier-Free Diffusion Guidance (NeurIPS 2021). :)
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
-- [RickHolaaa/2024-ero-project](https://github.com/RickHolaaa/2024-ero-project) - 
-- [RickHolaaa/2025-kuairec-recommender-system](https://github.com/RickHolaaa/2025-kuairec-recommender-system) - 
-- [RickHolaaa/2024-france-travail-scraping](https://github.com/RickHolaaa/2024-france-travail-scraping) - 
-- [RickHolaaa/2024-finite-automata-practical](https://github.com/RickHolaaa/2024-finite-automata-practical) - 
-- [RickHolaaa/2025-boat-recognition-cnn](https://github.com/RickHolaaa/2025-boat-recognition-cnn) - 
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [MachineLearnia/Python-Machine-Learning](https://github.com/MachineLearnia/Python-Machine-Learning) - Tous les codes utilisés dans la série YouTube Python Spécial Machine Learning !
 - [tdolan21/marlin-mistral-7b-v0.1-ft](https://github.com/tdolan21/marlin-mistral-7b-v0.1-ft) - This repo contains a tutorial for a finetune of mistralai/mistral-7b-v0.1. More information can be found in their paper: https://huggingface.co/papers/2310.06825
@@ -356,13 +349,12 @@
 - [KalyanKS-NLP/rag-zero-to-hero-guide](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide) - Comprehensive guide to learn RAG from basics to advanced.
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
 - [google-gemma/cookbook](https://github.com/google-gemma/cookbook) - A collection of guides and examples for the Gemma open models from Google.
-- [hi-paris/Hickathon](https://github.com/hi-paris/Hickathon) - 
 - [BryanBradfo/cur-randomizedcur-nmf](https://github.com/BryanBradfo/cur-randomizedcur-nmf) - 
 - [jramassa/ListenToTheWild](https://github.com/jramassa/ListenToTheWild) - 
 - [BryanBradfo/interpolate-triangular-patch](https://github.com/BryanBradfo/interpolate-triangular-patch) - Interpolating triangular patch surfaces with geometric modeling techniques based on the Butterfly subdivision scheme. :)
 - [BryanBradfo/pfe_lc_lora](https://github.com/BryanBradfo/pfe_lc_lora) - Facilitate the finetuning of deep neural networks by creating compressed checkpoints. :)
 - [BryanBradfo/ml-student](https://github.com/BryanBradfo/ml-student) - This repository contains resources and materials for a Machine Learning/Deep Learning course given at École Nationale de Météorologie (ENM).
-- [BryanBradfo/chatbot-using-DL](https://github.com/BryanBradfo/chatbot-using-DL) - 
+- [BryanBradfo/chatbot-using-DL](https://github.com/BryanBradfo/chatbot-using-DL) - 🤖 Chatbot using Deep Learning and Natural Language Processing (NLP) techniques to provide an intelligent conversational interface
 - [BryanBradfo/laas-mission](https://github.com/BryanBradfo/laas-mission) - Tell Me What You Want, I Will Tell You What You Like
 - [BryanBradfo/laas-machine-learning](https://github.com/BryanBradfo/laas-machine-learning) - 
 - [BryanBradfo/laas-combinatorial-optimization](https://github.com/BryanBradfo/laas-combinatorial-optimization) - 
@@ -1099,6 +1091,7 @@
 
 ## Rust 
 
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
