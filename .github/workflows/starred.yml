@@ -1,0 +1,97 @@
+name: update awesome-stars
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 30 0 * * *
+jobs:
+  awesome-stars:
+    name: update awesome-stars
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v6
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.10'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install 'starred==4.3.0'
+    # starred's default GraphQL query is heavy (100 repos x 100 topics per page
+    # plus unused fields), which makes GitHub's GraphQL gateway return 502, and
+    # its gql client has a tight 10s execute_timeout. We monkeypatch GitHubGQL
+    # to: use a lighter query (fewer repos/topics per page, only parsed fields),
+    # skip schema introspection, raise the per-request timeout, and retry on
+    # transient transport errors (502s). Then run starred in-process (a
+    # subprocess wouldn't see the patch) and write the README to stdout.
+    - name: Generate README (lighter query + retry)
+      env:
+        GITHUB_TOKEN: ${{ secrets.STARRED_TOKEN || secrets.GITHUB_TOKEN }}
+        USERNAME: ${{ github.repository_owner }}
+        PYTHONUNBUFFERED: '1'
+      run: |
+        python - "${USERNAME}" <<'PY' > README.md
+        import sys, time
+        from gql import gql
+        from starred import githubgql
+
+        # Lighter query: smaller pages, fewer topics, only fields starred parses.
+        githubgql.QUERY = gql('''
+        query ($username: String!, $after: String) {
+          user(login: $username) {
+            starredRepositories(first: 50, after: $after, orderBy: {direction: DESC, field: STARRED_AT}) {
+              nodes {
+                nameWithOwner
+                description
+                url
+                stargazerCount
+                isPrivate
+                languages(first: 1, orderBy: {field: SIZE, direction: DESC}) { edges { node { name } } }
+                repositoryTopics(first: 10) { nodes { topic { name stargazerCount } } }
+              }
+              pageInfo { endCursor hasNextPage }
+            }
+          }
+        }
+        ''')
+
+        _orig_init = githubgql.GitHubGQL.__init__
+        def _patched_init(self, token):
+            _orig_init(self, token)
+            self.client.execute_timeout = 120          # seconds, per request
+            self.client.fetch_schema_from_transport = False  # skip introspection
+            _orig_execute = self.client.execute
+            def _retry_execute(*a, **k):
+                last = None
+                for attempt in range(5):
+                    try:
+                        return _orig_execute(*a, **k)
+                    except Exception as e:
+                        last = e
+                        sys.stderr.write(f'GraphQL attempt {attempt + 1}/5 failed: {e}\n')
+                        time.sleep(2 ** attempt)        # 1, 2, 4, 8, 16s backoff
+                raise last
+            self.client.execute = _retry_execute
+        githubgql.GitHubGQL.__init__ = _patched_init
+
+        from starred.starred import starred
+        starred.main(['--username', sys.argv[1], '--sort'], standalone_mode=False)
+        PY
+        if ! head -n 5 README.md | grep -q 'Awesome Stars'; then
+          echo "::error::starred did not produce a valid README. Content was:"
+          cat README.md
+          exit 1
+        fi
+    - name: Commit & push if changed
+      run: |
+        git config user.name 'BryanBradfo'
+        git config user.email '101939095+BryanBradfo@users.noreply.github.com'
+        if git diff --quiet -- README.md; then
+          echo "No changes to README.md."
+        else
+          git add README.md
+          git commit -m 'Update starred repositories'
+          git push
+        fi
