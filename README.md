@@ -173,10 +173,6 @@
 
 ## HTML 
 
-- [RickHolaaa/2022-static-portfolio](https://github.com/RickHolaaa/2022-static-portfolio) - 
-- [RickHolaaa/2020-first-website](https://github.com/RickHolaaa/2020-first-website) - 
-- [RickHolaaa/2022-personal-static-portfolio](https://github.com/RickHolaaa/2022-personal-static-portfolio) - 
-- [RickHolaaa/2025-chef-ai](https://github.com/RickHolaaa/2025-chef-ai) - 
 - [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
@@ -256,7 +252,6 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [RickHolaaa/2020-discord-bot](https://github.com/RickHolaaa/2020-discord-bot) - 
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-- [RickHolaaa/2024-realtime-chat-app](https://github.com/RickHolaaa/2024-realtime-chat-app) - 
 
 ## Julia 
 
@@ -396,6 +391,7 @@
 
 ## Others 
 
+- [BryanBradfo/awesome-stars](https://github.com/BryanBradfo/awesome-stars) - ⭐ A curated list of my GitHub stars, automatically updated daily
 - [RickHolaaa/hive-cheatsheet](https://github.com/RickHolaaa/hive-cheatsheet) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
