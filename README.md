@@ -449,7 +449,6 @@
 - [hugging-science/pde](https://github.com/hugging-science/pde) - 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
@@ -982,6 +981,7 @@
 - [google-marketing-solutions/negative_keyword_cleaner](https://github.com/google-marketing-solutions/negative_keyword_cleaner) - Identify irrelevant negative keywords from your Google Ads account
 - [linogaliana/python-datascientist](https://github.com/linogaliana/python-datascientist) - Dépôt associé au cours Python pour data scientists (ENSAE 2e année)
 - [lve-org/lve](https://github.com/lve-org/lve) - A repository of Language Model Vulnerabilities and Exposures (LVEs).
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [BryanBradfo/hackathon-yubu-code](https://github.com/BryanBradfo/hackathon-yubu-code) - AgentOps Replay - Adding confidence in AI agents s.t. they follow policy, use tools correctly, and make auditable decisions. When something goes wrong, teams replay what happened, step through decisio
 - [BryanBradfo/mp](https://github.com/BryanBradfo/mp) - Projects of my final year of CPGE. :D
 - [BryanBradfo/AIrchitect](https://github.com/BryanBradfo/AIrchitect) - 🎨 Interactive interior design assistant powered by Mistral's Pixtral model 🦋
