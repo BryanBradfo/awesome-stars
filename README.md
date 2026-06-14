@@ -485,6 +485,7 @@
 
 ## Python 
 
+- [arteemg/autoswarm](https://github.com/arteemg/autoswarm) - Open-source framework for superagents.
 - [mlcommons/submissions_algorithms](https://github.com/mlcommons/submissions_algorithms) - 
 - [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models.
 - [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) - 
