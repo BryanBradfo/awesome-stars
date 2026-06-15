@@ -1258,7 +1258,7 @@
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [BryanBradfo/mantispdf](https://github.com/BryanBradfo/mantispdf) - 📄 Blazing-fast Rust/WASM PDF editor to split and format files locally in your browser—100% private, 0% server
+- [BryanBradfo/mantispdf](https://github.com/BryanBradfo/mantispdf) - 📄 Blazing-fast Rust/WASM PDF editor to split and format files locally in your browser
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
