@@ -345,6 +345,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [Danyalalam/LLM-from-scratch](https://github.com/Danyalalam/LLM-from-scratch) - 
+- [nathanael-fijalkow/LLM-Course](https://github.com/nathanael-fijalkow/LLM-Course) - Public repository for the LLM course at MVA
 - [BryanBradfo/predicting-freshwater-availability](https://github.com/BryanBradfo/predicting-freshwater-availability) - 
 - [smolorg/smolgrad](https://github.com/smolorg/smolgrad) - small auto-grad engine inspired from Karpathy's micrograd and PyTorch
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
@@ -458,7 +459,6 @@
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [nathanael-fijalkow/LLM-Course](https://github.com/nathanael-fijalkow/LLM-Course) - Public repository for the LLM course at MVA
 - [hemingkx/SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) - 📰 Must-read papers and blogs on Speculative Decoding ⚡️
 - [forresti/SqueezeNet](https://github.com/forresti/SqueezeNet) - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
@@ -1022,6 +1022,7 @@
 - [RickHolaaa/2024-qr-code-generator](https://github.com/RickHolaaa/2024-qr-code-generator) - 
 - [RickHolaaa/2025-Epita-Programmation-par-Contraintes-Sujet-8](https://github.com/RickHolaaa/2025-Epita-Programmation-par-Contraintes-Sujet-8) - 8. Calendrier sportif (Sports Tournament Scheduling)
 - [BryanBradfo/humanAI](https://github.com/BryanBradfo/humanAI) - ❤️‍🩹 RAG chatbot using streamlit to answer questions about help documents & solidarity ✊
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
@@ -1366,7 +1367,6 @@
 - [RickHolaaa/2025-vending-machines-iot](https://github.com/RickHolaaa/2025-vending-machines-iot) - 
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [felladrin/MiniSearch](https://github.com/felladrin/MiniSearch) - Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space
