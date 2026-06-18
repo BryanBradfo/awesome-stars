@@ -85,7 +85,6 @@
 - [AmineDiro/ferrules](https://github.com/AmineDiro/ferrules) - Modern, fast, document parser written in  🦀
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [NVIDIA/cuda-checkpoint](https://github.com/NVIDIA/cuda-checkpoint) - CUDA checkpoint and restore utility
 - [BryanBradfo/c-101](https://github.com/BryanBradfo/c-101) - Solve all the exercises, understand core C programming concepts, and get hands-on experience with debugging, type systems, pointers, memory, and more. :)
 - [RickHolaaa/2024-my-git](https://github.com/RickHolaaa/2024-my-git) - 
@@ -118,6 +117,7 @@
 - [SHI-Labs/NATTEN](https://github.com/SHI-Labs/NATTEN) - Fast Multi-dimensional Sparse Attention
 - [colmap/glomap](https://github.com/colmap/glomap) - [DEPRECATED] GLOMAP - Global Structured-from-Motion Revisited
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [HybridRobotics/motion_tracking_controller](https://github.com/HybridRobotics/motion_tracking_controller) - 
 - [kyutai-labs/flash-attn3-jax](https://github.com/kyutai-labs/flash-attn3-jax) - JAX bindings for the FlashAttention 3 kernels
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -485,6 +485,7 @@
 
 ## Python 
 
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [arteemg/autoswarm](https://github.com/arteemg/autoswarm) - Open-source framework for superagents.
 - [mlcommons/submissions_algorithms](https://github.com/mlcommons/submissions_algorithms) - 
 - [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models.
@@ -1129,7 +1130,7 @@
 ## Rust 
 
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
 - [vorner/arc-swap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
