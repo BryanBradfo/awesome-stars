@@ -437,7 +437,7 @@
 - [ecjojo/ecjojo-comfyui-workflows](https://github.com/ecjojo/ecjojo-comfyui-workflows) - Ecjojo ComfyUI Workflow Templates
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
 - [comfy-deploy/comfydeploy](https://github.com/comfy-deploy/comfydeploy) - ComfyDeployed
-- [xhyumiracle/Awesome-AgenticLLM-RL-Papers](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) - 
+- [HHHHHejia/Awesome-AgenticLLM-RL-Papers](https://github.com/HHHHHejia/Awesome-AgenticLLM-RL-Papers) - 
 - [zeroth-robotics/zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot) - 3D-printed open-source humanoid robot platform for sim-to-real and RL
 - [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - collection of diffusion model papers categorized by their subareas
 - [csguoh/Awesome-Mamba-in-Low-Level-Vision](https://github.com/csguoh/Awesome-Mamba-in-Low-Level-Vision) - A paper list of recent mamba efforts for low-level vision.
