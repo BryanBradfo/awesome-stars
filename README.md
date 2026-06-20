@@ -277,7 +277,6 @@
 
 - [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
 - [google-ai-edge/litert-torch](https://github.com/google-ai-edge/litert-torch) - Support PyTorch model conversion with LiteRT.
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2) - This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction
 - [google/jax-cfd](https://github.com/google/jax-cfd) - Computational Fluid Dynamics in JAX
@@ -410,6 +409,7 @@
 ## Others 
 
 - [spacetelescope/notebooks](https://github.com/spacetelescope/notebooks) - This repo contains no notebook content; instead, this is a landing page that links to other repositories.
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [BryanBradfo/awesome-stars](https://github.com/BryanBradfo/awesome-stars) - ⭐ A curated list of my GitHub stars, automatically updated daily
 - [RickHolaaa/hive-cheatsheet](https://github.com/RickHolaaa/hive-cheatsheet) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -1149,7 +1149,7 @@
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [huggingface/ratchet](https://github.com/huggingface/ratchet) - A cross-platform browser ML framework.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [EricLBuehler/safetensors_explorer](https://github.com/EricLBuehler/safetensors_explorer) - CLI utility to inspect and explore .safetensors and .gguf files
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [KeKsBoTer/web-splat](https://github.com/KeKsBoTer/web-splat) - 3D Gaussian Splatting Renderer implemented in WebGPU (WGPU) and Rust
