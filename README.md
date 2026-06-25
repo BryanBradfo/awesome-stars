@@ -251,7 +251,6 @@
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [nu-dialogue/j-moshi](https://github.com/nu-dialogue/j-moshi) - J-Moshi: A Japanese Full-duplex Spoken Dialogue System
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [timqian/follows-you](https://github.com/timqian/follows-you) - Adds a tag indicating whether a user follows you on GitHub
@@ -1188,13 +1187,14 @@
 
 ## Shell 
 
-- [BryanBradfo/ClaudeCodeVitals](https://github.com/BryanBradfo/ClaudeCodeVitals) - A beautiful Claude Code statusline with live progress bars for context, rate limits, and cost — model-aware accents, rich git, PR status, and a session reminder. Single Bash script, Linux, no Nerd Fon
+- [BryanBradfo/ClaudeCodeVitals](https://github.com/BryanBradfo/ClaudeCodeVitals) - A beautiful Claude Code statusline with live progress bars for context, rate limits, and cost, plus model-aware accents, rich git, PR status, and a session reminder. Single Bash script, Linux, no Nerd
 - [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [blader/taskmaster](https://github.com/blader/taskmaster) - Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
+- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [amd/ryzen-ai-documentation](https://github.com/amd/ryzen-ai-documentation) - Onboarding documentation source for the AMD Ryzen™ AI Software Platform.   The AMD Ryzen™ AI Software Platform enables developers to take pretrained machine learning models in popular frameworks and r
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
