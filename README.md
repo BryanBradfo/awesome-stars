@@ -514,7 +514,7 @@
 - [snap-stanford/MLAgentBench](https://github.com/snap-stanford/MLAgentBench) - 
 - [nansencenter/DAPPER](https://github.com/nansencenter/DAPPER) - Data Assimilation with Python: a Package for Experimental Research
 - [pypest/pyemu](https://github.com/pypest/pyemu) - python modules for model-independent uncertainty analyses, data-worth analyses, and interfacing with PEST(++)
-- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal
+- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [Unstructured-IO/unstructured-api](https://github.com/Unstructured-IO/unstructured-api) - 
 - [AmineDiro/daskqueue](https://github.com/AmineDiro/daskqueue) - Distributed persistent Task Queue running on Dask
