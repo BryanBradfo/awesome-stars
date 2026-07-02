@@ -410,6 +410,7 @@
 
 ## Others 
 
+- [Deep-Spark/DeepSpark](https://github.com/Deep-Spark/DeepSpark) - The DeepSpark open platform selects hundreds of open source application algorithms and models that are deeply coupled with industrial applications, supports mainstream application frameworks, and prov
 - [spacetelescope/notebooks](https://github.com/spacetelescope/notebooks) - This repo contains no notebook content; instead, this is a landing page that links to other repositories.
 - [BryanBradfo/awesome-stars](https://github.com/BryanBradfo/awesome-stars) - ⭐ A curated list of my GitHub stars, automatically updated daily
 - [RickHolaaa/hive-cheatsheet](https://github.com/RickHolaaa/hive-cheatsheet) - 
