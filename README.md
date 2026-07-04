@@ -788,7 +788,7 @@
 - [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 - [chungmin99/pyroki](https://github.com/chungmin99/pyroki) - A Modular Toolkit for Robot Kinematic Optimization
 - [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
-- [mani-skill/ManiSkill](https://github.com/mani-skill/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark
+- [mani-skill/ManiSkill](https://github.com/mani-skill/ManiSkill) - Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark
 - [DecartAI/Lucy-Edit-ComfyUI](https://github.com/DecartAI/Lucy-Edit-ComfyUI) - 
 - [OpenGVLab/ScaleCUA](https://github.com/OpenGVLab/ScaleCUA) - [ICLR 2026 Oral] ScaleCUA is the open-sourced computer use agents that can operate on cross-platform environments (Windows, macOS, Ubuntu, Android).
 - [KohakuBlueleaf/HDM](https://github.com/KohakuBlueleaf/HDM) - Home Made Diffusion Models
