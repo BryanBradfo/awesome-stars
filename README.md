@@ -490,6 +490,7 @@
 
 ## Python 
 
+- [NVIDIA/nvidia-kaggle](https://github.com/NVIDIA/nvidia-kaggle) - NVIDIA Kaggle Plugin gives agents end-to-end Kaggle competition workflows through a single skill, nvidia-kaggle-skill. It can gather competition context, study public writeups and notebooks, reproduce
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [NVIDIA/makani](https://github.com/NVIDIA/makani) - Massively parallel training of machine-learning based weather and climate models
 - [keon/deep-q-learning](https://github.com/keon/deep-q-learning) - Minimal Deep Q Learning (DQN & DDQN) implementations in Keras
@@ -1209,7 +1210,6 @@
 ## Shell 
 
 - [BryanBradfo/ClaudeCodeVitals](https://github.com/BryanBradfo/ClaudeCodeVitals) - A beautiful Claude Code statusline with live progress bars for context, rate limits, and cost, plus model-aware accents, rich git, PR status, and a session reminder. Single Bash script, Linux, no Nerd
-- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [blader/taskmaster](https://github.com/blader/taskmaster) - Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -1284,6 +1284,7 @@
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML Research Engineer
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [BryanBradfo/mantispdf](https://github.com/BryanBradfo/mantispdf) - 📄 Blazing-fast Rust/WASM PDF editor to split and format files locally in your browser
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
