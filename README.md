@@ -244,6 +244,7 @@
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
+- [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
 - [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -696,6 +697,7 @@
 - [finegrain-ai/refiners](https://github.com/finegrain-ai/refiners) - A microframework on top of PyTorch with first-class citizen APIs for foundation model adaptation
 - [VITA-Group/LightGaussian](https://github.com/VITA-Group/LightGaussian) - [NeurIPS 2024 Spotlight]"LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS", Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [bitsandbytes-foundation/bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
 - [chenran-li/RQL-release](https://github.com/chenran-li/RQL-release) - (NeurIPS 2023) Residual Q-Learning: Offline and Online Policy Customization without Value
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
@@ -1227,7 +1229,6 @@
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [matiadev/joy-of-code](https://github.com/matiadev/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
-- [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [matfantinel/sveltekit-static-blog-template](https://github.com/matfantinel/sveltekit-static-blog-template) - A lightweight and customizable template for blogs and portfolio websites, built with SvelteKit.
 - [kevmodrome/mistral-kit](https://github.com/kevmodrome/mistral-kit) - A prompt to code site using mistral-7b and ollama.
@@ -1323,7 +1324,6 @@
 - [BennyKok/comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) - An open source `vercel` like deployment platform for Comfy UI
 - [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte) - An unstyled drawer component for Svelte.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
