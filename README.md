@@ -91,7 +91,7 @@
 
 ## C# # 
 
-- [daniel3303/Equibles](https://github.com/daniel3303/Equibles) - An open-source, self-hosted mini Bloomberg Terminal for AI agents — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single self-hosted stack.
+- [daniel3303/Equibles](https://github.com/daniel3303/Equibles) - An open-source, self-hosted mini Bloomberg Terminal for AI agents, exposed as an MCP server — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single s
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [microsoft/MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity) - This repository contains samples, documentation, and supporting scripts for Maps SDK, a Microsoft Garage project.
 - [allenai/ai2thor](https://github.com/allenai/ai2thor) - An open-source platform for Visual AI.
