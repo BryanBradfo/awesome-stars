@@ -392,7 +392,6 @@
 ## MDX 
 
 - [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the Hugging Face Deep Reinforcement Learning Course.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
@@ -528,7 +527,7 @@
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [PlasmaControl/DESC](https://github.com/PlasmaControl/DESC) - Stellarator Equilibrium and Optimization Suite
@@ -680,6 +679,7 @@
 - [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) - 
 - [WangFeng18/3d-gaussian-splatting](https://github.com/WangFeng18/3d-gaussian-splatting) - Implementation for 3d gaussian splatting
 - [3D-FRONT-FUTURE/NeuDA](https://github.com/3D-FRONT-FUTURE/NeuDA) - NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction (CVPR 2023)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [facebookresearch/open_lth](https://github.com/facebookresearch/open_lth) - A repository in preparation for open-sourcing lottery ticket hypothesis code.
@@ -1128,7 +1128,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
