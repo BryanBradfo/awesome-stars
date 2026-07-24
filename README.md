@@ -104,7 +104,7 @@
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [meta-pytorch/torchcomms](https://github.com/meta-pytorch/torchcomms) - torchcomms: a modern PyTorch communications API
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.
 - [keith2018/TinyTorch](https://github.com/keith2018/TinyTorch) - A lightweight deep learning training framework implemented from scratch in C++, featuring a PyTorch-style API.
 - [johnmai-dev/ANE-LM](https://github.com/johnmai-dev/ANE-LM) - LLM inference on Apple Neural Engine (ANE)
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
@@ -245,7 +245,6 @@
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -513,7 +512,7 @@
 - [arteemg/autoswarm](https://github.com/arteemg/autoswarm) - Open-source framework for superagents.
 - [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models.
 - [NVIDIA-BioNeMo/bionemo-recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) - BioNeMo Recipes: For building and adapting AI models in drug discovery at scale
-- [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) - 
+- [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) - NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [allenai/OLMo-core](https://github.com/allenai/OLMo-core) - PyTorch building blocks for the OLMo ecosystem
@@ -1268,7 +1267,7 @@
 
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -1319,6 +1318,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nandanmen/NotANumber](https://github.com/nandanmen/NotANumber) - An interactive blog on computer science and web dev 💡
 - [oslabs-beta/Svelte-DevTools-Plus](https://github.com/oslabs-beta/Svelte-DevTools-Plus) - Adds Svelte debugging tools to the Chrome Developer Tools
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [MaximeHeckel/blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com) - Codebase of @MaximeHeckel's personal blog
 - [MaximeHeckel/design-system](https://github.com/MaximeHeckel/design-system) - My personal design system
