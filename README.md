@@ -748,7 +748,7 @@
 - [XLabs-AI/x-flux](https://github.com/XLabs-AI/x-flux) - 
 - [VMarsocci/pangaea-bench](https://github.com/VMarsocci/pangaea-bench) - Towards Robust Evaluation for Geospatial Foundation Models
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need
-- [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+- [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [genforce/ctrl-x](https://github.com/genforce/ctrl-x) - Official implementation of "Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance" (NeurIPS 2024)
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
