@@ -476,7 +476,7 @@
 - [edupoux/MVA_2019_SL](https://github.com/edupoux/MVA_2019_SL) - 
 - [HaebinShin/stanford-sentiment-dataset](https://github.com/HaebinShin/stanford-sentiment-dataset) - Refined dataset for Stanford Sentiment Treebank used in Yoon Kim (2014).
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
-- [jean-zay-users/jean-zay-doc](https://github.com/jean-zay-users/jean-zay-doc) - Collaborative documentation for and from Jean Zay users. Official Jean Zay documentation: http://www.idris.fr/eng/jean-zay/
+- [jean-zay-users/jean-zay-doc](https://github.com/jean-zay-users/jean-zay-doc) - Collaborative documentation for and from Jean Zay users. Official Jean Zay documentation: http://www.idris.fr/en/docs/jean-zay/nouvel-utilisateur
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [hazratali/awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) - An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare
 - [BryanBradfo/BryanBradfo](https://github.com/BryanBradfo/BryanBradfo) - 👤  我. Learn more about me.
@@ -964,7 +964,7 @@
 - [NVlabs/rcm](https://github.com/NVlabs/rcm) - rCM & Causal-rCM: Leading and Unified Algorithms/Infrastructures for Bidirectional/Autoregressive Video Diffusion Distillation at Scale
 - [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) - An interface library for RL post training with environments.
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 156 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [facebookresearch/Action100M](https://github.com/facebookresearch/Action100M) - A Large-scale Video Action Dataset
 - [westlake-repl/LeanVAE](https://github.com/westlake-repl/LeanVAE) - [ICCV2025]LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models
 - [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) - Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis
