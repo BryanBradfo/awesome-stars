@@ -291,7 +291,6 @@
 - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
 - [brookswoolf/Trading-Algorithms](https://github.com/brookswoolf/Trading-Algorithms) - This repository contains the customized trading algorithms that I have created using the Quantopian IDE.
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [Ceyron/machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation) - All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)
 - [marrrcin/rsrlayer-pytorch](https://github.com/marrrcin/rsrlayer-pytorch) - PyTorch implementation of Robust Subspace Recovery Layer for Unsupervised Anomaly Detection https://arxiv.org/abs/1904.00152
 - [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21) - NYU Deep Learning Spring 2021
@@ -616,6 +615,7 @@
 - [RUC-NLPIR/Search-o1](https://github.com/RUC-NLPIR/Search-o1) - 🔍 Search-o1: Agentic Search-Enhanced Large Reasoning Models [EMNLP 2025]
 - [anfederico/clairvoyant](https://github.com/anfederico/clairvoyant) - 
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [onnx/sklearn-onnx](https://github.com/onnx/sklearn-onnx) - Convert scikit-learn models and pipelines to ONNX
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
