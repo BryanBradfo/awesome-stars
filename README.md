@@ -92,7 +92,7 @@
 
 ## C# # 
 
-- [daniel3303/Equibles](https://github.com/daniel3303/Equibles) - An open-source, self-hosted mini Bloomberg Terminal for AI agents, exposed as an MCP server — SEC filings, institutional holdings, insider trading, congressional trades, and short data from a single s
+- [daniel3303/Equibles](https://github.com/daniel3303/Equibles) - Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 6
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [microsoft/MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity) - This repository contains samples, documentation, and supporting scripts for Maps SDK, a Microsoft Garage project.
 - [allenai/ai2thor](https://github.com/allenai/ai2thor) - An open-source platform for Visual AI.
@@ -1131,7 +1131,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
