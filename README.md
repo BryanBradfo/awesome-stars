@@ -246,6 +246,7 @@
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -1229,7 +1230,6 @@
 ## Svelte 
 
 - [kwchang0831/svelte-QWER](https://github.com/kwchang0831/svelte-QWER) - ✒︎ Simply Awesome Blog Starter built with SvelteKit and Love ❤
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [matiadev/joy-of-code](https://github.com/matiadev/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
