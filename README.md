@@ -808,7 +808,7 @@
 - [ShangyuanTong/FreeFlow](https://github.com/ShangyuanTong/FreeFlow) - Official PyTorch Implementation of "Flow Map Distillation Without Data"
 - [opendatalab/UniMERNet](https://github.com/opendatalab/UniMERNet) - UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition
 - [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
-- [mflux-community/mflux](https://github.com/mflux-community/mflux) - MLX native implementations of state-of-the-art generative image models
+- [mflux-community/mflux](https://github.com/mflux-community/mflux) - Apple MLX native implementations of state-of-the-art generative image & video models
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [3DTopia/MaterialAnything](https://github.com/3DTopia/MaterialAnything) - [CVPR 2025 Highlight] Material Anything: Generating Materials for Any 3D Object via Diffusion
