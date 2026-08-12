@@ -99,7 +99,7 @@
 
 ## C++ 
 
-- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
+- [NVIDIA/cudf](https://github.com/NVIDIA/cudf) - cuDF - GPU DataFrame Library
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [meta-pytorch/torchcomms](https://github.com/meta-pytorch/torchcomms) - torchcomms: a modern PyTorch communications API
@@ -537,7 +537,7 @@
 - [snap-stanford/MLAgentBench](https://github.com/snap-stanford/MLAgentBench) - 
 - [nansencenter/DAPPER](https://github.com/nansencenter/DAPPER) - Data Assimilation with Python: a Package for Experimental Research
 - [pypest/pyemu](https://github.com/pypest/pyemu) - python modules for model-independent uncertainty analyses, data-worth analyses, and interfacing with PEST(++)
-- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal
+- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [Unstructured-IO/unstructured-api](https://github.com/Unstructured-IO/unstructured-api) - 
 - [AmineDiro/daskqueue](https://github.com/AmineDiro/daskqueue) - Distributed persistent Task Queue running on Dask
@@ -557,7 +557,7 @@
 - [marssoo/SAVs](https://github.com/marssoo/SAVs) - Modified version of "Generative Multimodal Model Features Are Discriminative Vision-Language Classifiers".
 - [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators.
 - [ariG23498/gemma3-object-detection](https://github.com/ariG23498/gemma3-object-detection) - Fine tune Gemma 3 on an object detection task
-- [pytorch/ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
+- [pytorch/ao](https://github.com/pytorch/ao) - PyTorch native quantization for training and inference
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Machine Learning Systems
 - [pytorch/helion](https://github.com/pytorch/helion) - A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
@@ -1114,7 +1114,7 @@
 - [miki725/importanize](https://github.com/miki725/importanize) - Utility for organizing Python imports using PEP8 or custom rules
 - [facebookresearch/XLM](https://github.com/facebookresearch/XLM) - PyTorch original implementation of Cross-lingual Language Model Pretraining.
 - [facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
+- [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
 - [facebookresearch/cc_net](https://github.com/facebookresearch/cc_net) - Tools to download and cleanup Common Crawl data
 - [google-research/pegasus](https://github.com/google-research/pegasus) - 
@@ -1128,7 +1128,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
