@@ -934,7 +934,7 @@
 - [imlixinyang/FlashWorld](https://github.com/imlixinyang/FlashWorld) - Code for "FlashWorld: High-quality 3D Scene Generation within Seconds" (ICLR 2026 Oral)
 - [ChenFengYe/motion-latent-diffusion](https://github.com/ChenFengYe/motion-latent-diffusion) - [CVPR 2023] Executing your Commands via Motion Diffusion in Latent Space, a fast and high-quality motion diffusion model
 - [Lakonik/LakonLab](https://github.com/Lakonik/LakonLab) - Official implementation of AsymFlow, pi-Flow, GMFlow
-- [InternRobotics/AdaMimic](https://github.com/InternRobotics/AdaMimic) - [ICRA 2026] Official implementation of "Towards Adaptable Humanoid Control via Adaptive Motion Tracking"
+- [InternRobotics/AdaMimic](https://github.com/InternRobotics/AdaMimic) - [ICRA 2026 Oral] Official implementation of "Towards Adaptable Humanoid Control via Adaptive Motion Tracking"
 - [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
 - [RadicalNumerics/RND1](https://github.com/RadicalNumerics/RND1) - RND1: Scaling Diffusion Language Models
 - [duriantaco/dinov3clip](https://github.com/duriantaco/dinov3clip) - Caption free adapter that maps DINOv3 image embeddings into CLIP space so you can do zero-shot text -&gt; image or image -&gt; text with CLIP’s text tower
@@ -1376,7 +1376,7 @@
 - [bombshell-dev/tab](https://github.com/bombshell-dev/tab) - shell autocompletions for javascript CLIs
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
-- [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
+- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [timqian/bambot](https://github.com/timqian/bambot) - Play with open source, low-cost AI robots with ease 🤖
