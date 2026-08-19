@@ -206,6 +206,7 @@
 - [karpathy/calorie](https://github.com/karpathy/calorie) - nice and effective super simple calorie counter web app
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
+- [yennanliu/CS_basics](https://github.com/yennanliu/CS_basics) - My CS learning : algorithm, data structure, and system design | #SE
 - [nathanael-fijalkow/LLM-Course](https://github.com/nathanael-fijalkow/LLM-Course) - Public repository for the LLM course at MVA
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [BryanBradfo/responsible-ai-datascience-ipParis.github.io](https://github.com/BryanBradfo/responsible-ai-datascience-ipParis.github.io) - Understanding the latest developments in the field of Responsible AI, exploring facets such as interpretable AI, fairness in machine learning, robust machine learning, data privacy, and frugality.
@@ -218,7 +219,6 @@
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [BryanBradfo/formula1-simulator](https://github.com/BryanBradfo/formula1-simulator) - Become the director of an F1 team, earn money to improve your two cars for the next races! :)
 - [RickHolaaa/2023-farm-ecosys-simulation](https://github.com/RickHolaaa/2023-farm-ecosys-simulation) - 
-- [yennanliu/CS_basics](https://github.com/yennanliu/CS_basics) - My CS learning : algorithm, data structure, and system design | #SE
 
 ## JavaScript 
 
@@ -961,7 +961,7 @@
 - [NVlabs/rcm](https://github.com/NVlabs/rcm) - rCM & Causal-rCM: Leading and Unified Algorithms/Infrastructures for Bidirectional/Autoregressive Video Diffusion Distillation at Scale
 - [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) - An interface library for RL post training with environments.
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [facebookresearch/Action100M](https://github.com/facebookresearch/Action100M) - A Large-scale Video Action Dataset
 - [westlake-repl/LeanVAE](https://github.com/westlake-repl/LeanVAE) - [ICCV2025]LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models
 - [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) - Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis
