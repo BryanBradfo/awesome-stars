@@ -206,7 +206,6 @@
 - [karpathy/calorie](https://github.com/karpathy/calorie) - nice and effective super simple calorie counter web app
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
-- [yennanliu/CS_basics](https://github.com/yennanliu/CS_basics) - My CS learning : algorithm, data structure, and system design | #SE
 - [nathanael-fijalkow/LLM-Course](https://github.com/nathanael-fijalkow/LLM-Course) - Public repository for the LLM course at MVA
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [BryanBradfo/responsible-ai-datascience-ipParis.github.io](https://github.com/BryanBradfo/responsible-ai-datascience-ipParis.github.io) - Understanding the latest developments in the field of Responsible AI, exploring facets such as interpretable AI, fairness in machine learning, robust machine learning, data privacy, and frugality.
@@ -219,6 +218,7 @@
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [BryanBradfo/formula1-simulator](https://github.com/BryanBradfo/formula1-simulator) - Become the director of an F1 team, earn money to improve your two cars for the next races! :)
 - [RickHolaaa/2023-farm-ecosys-simulation](https://github.com/RickHolaaa/2023-farm-ecosys-simulation) - 
+- [yennanliu/CS_basics](https://github.com/yennanliu/CS_basics) - My CS learning : algorithm, data structure, and system design | #SE
 
 ## JavaScript 
 
@@ -553,7 +553,7 @@
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [google-deepmind/jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax
 - [BryanBradfo/torchOCR](https://github.com/BryanBradfo/torchOCR) - A PyTorch native library for end-to-end optical character recognition
-- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build voice agents with open-source models
 - [marssoo/SAVs](https://github.com/marssoo/SAVs) - Modified version of "Generative Multimodal Model Features Are Discriminative Vision-Language Classifiers".
 - [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators.
 - [ariG23498/gemma3-object-detection](https://github.com/ariG23498/gemma3-object-detection) - Fine tune Gemma 3 on an object detection task
@@ -808,7 +808,6 @@
 - [ShangyuanTong/FreeFlow](https://github.com/ShangyuanTong/FreeFlow) - Official PyTorch Implementation of "Flow Map Distillation Without Data"
 - [opendatalab/UniMERNet](https://github.com/opendatalab/UniMERNet) - UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition
 - [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
-- [mflux-community/mflux](https://github.com/mflux-community/mflux) - Apple MLX native implementations of state-of-the-art generative image & video models
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [3DTopia/MaterialAnything](https://github.com/3DTopia/MaterialAnything) - [CVPR 2025 Highlight] Material Anything: Generating Materials for Any 3D Object via Diffusion
@@ -1363,7 +1362,6 @@
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
-- [ariana-dot-dev/ariana](https://github.com/ariana-dot-dev/ariana) - The IDE of the future
 - [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
 - [OSU-NLP-Group/GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - Awesome GUI Agent Paper List
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
