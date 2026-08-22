@@ -564,7 +564,7 @@
 - [pytorch/audio](https://github.com/pytorch/audio) - Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
-- [soda-inria/tabicl](https://github.com/soda-inria/tabicl) - TabICLv2: A state-of-the-art tabular foundation model
+- [soda-inria/tabicl](https://github.com/soda-inria/tabicl) - TabICLv2: An open tabular foundation model
 - [urchade/GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)
 - [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
 - [mllam/neural-lam](https://github.com/mllam/neural-lam) - Research Software for Neural Weather Prediction for Limited Area Modeling
