@@ -809,6 +809,7 @@
 - [ShangyuanTong/FreeFlow](https://github.com/ShangyuanTong/FreeFlow) - Official PyTorch Implementation of "Flow Map Distillation Without Data"
 - [opendatalab/UniMERNet](https://github.com/opendatalab/UniMERNet) - UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition
 - [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
+- [mflux-community/mflux](https://github.com/mflux-community/mflux) - Apple MLX native implementations of state-of-the-art generative image & video models
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [3DTopia/MaterialAnything](https://github.com/3DTopia/MaterialAnything) - [CVPR 2025 Highlight] Material Anything: Generating Materials for Any 3D Object via Diffusion
@@ -1266,6 +1267,7 @@
 
 ## TypeScript 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
