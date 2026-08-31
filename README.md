@@ -222,6 +222,8 @@
 
 ## JavaScript 
 
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [BryanBradfo/rubiksera](https://github.com/BryanBradfo/rubiksera) - Interactive 3D Rubik's cube visualizer following Victor Colin's beginner method (FR/EN)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [RickHolaaa/2024-discord-bot-js](https://github.com/RickHolaaa/2024-discord-bot-js) - 
@@ -415,6 +417,7 @@
 
 ## Others 
 
+- [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 - [Deep-Spark/DeepSpark](https://github.com/Deep-Spark/DeepSpark) - The DeepSpark open platform selects hundreds of open source application algorithms and models that are deeply coupled with industrial applications, supports mainstream application frameworks, and prov
 - [spacetelescope/notebooks](https://github.com/spacetelescope/notebooks) - This repo contains no notebook content; instead, this is a landing page that links to other repositories.
 - [BryanBradfo/awesome-stars](https://github.com/BryanBradfo/awesome-stars) - ⭐ A curated list of my GitHub stars, automatically updated daily
@@ -1268,6 +1271,7 @@
 
 ## TypeScript 
 
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
