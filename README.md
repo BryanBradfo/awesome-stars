@@ -181,6 +181,7 @@
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 
 ## HTML 
 
@@ -843,8 +844,8 @@
 - [ali-vilab/ACE_plus](https://github.com/ali-vilab/ACE_plus) - 
 - [Huage001/CLEAR](https://github.com/Huage001/CLEAR) - [NeurIPS 2025] Official PyTorch implementation of paper "CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up".
 - [xdit-project/xDiT](https://github.com/xdit-project/xDiT) - xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism
-- [nunchaku-ai/nunchaku](https://github.com/nunchaku-ai/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
-- [nunchaku-ai/deepcompressor](https://github.com/nunchaku-ai/deepcompressor) - Model Compression Toolbox for Large Language Models and Diffusion Models
+- [nunchux-ai/nunchaku](https://github.com/nunchux-ai/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+- [nunchux-ai/deepcompressor](https://github.com/nunchux-ai/deepcompressor) - Model Compression Toolbox for Large Language Models and Diffusion Models
 - [snap-research/stable-flow](https://github.com/snap-research/stable-flow) - Official implementation for "Stable Flow: Vital Layers for Training-Free Image Editing" [CVPR 2025]
 - [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -1034,7 +1035,6 @@
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [google-deepmind/dm_control](https://github.com/google-deepmind/dm_control) - Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
-- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
