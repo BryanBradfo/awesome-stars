@@ -805,7 +805,7 @@
 - [Martinser/REG](https://github.com/Martinser/REG) - [NeurIPS 2025 Oral] Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think
 - [SakanaAI/treequest](https://github.com/SakanaAI/treequest) - A Tree Search Library with Flexible API for LLM Inference-Time Scaling
 - [apple/ml-l3m](https://github.com/apple/ml-l3m) - Large multi-modal models (L3M) pre-training.
-- [ttktjmt/mjswan](https://github.com/ttktjmt/mjswan) - MuJoco Simulation on Web Assembly with Neural netwroks
+- [ttktjmt/mjswan](https://github.com/ttktjmt/mjswan) - MuJoco Simulation on WebAssembly with Neural networks
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [AlmondGod/tinyworlds](https://github.com/AlmondGod/tinyworlds) - A minimal implementation of DeepMind's Genie world model
 - [thu-ml/RDT2](https://github.com/thu-ml/RDT2) - Official code of RDT 2
@@ -1235,6 +1235,7 @@
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [matiadev/joy-of-code](https://github.com/matiadev/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [matfantinel/sveltekit-static-blog-template](https://github.com/matfantinel/sveltekit-static-blog-template) - A lightweight and customizable template for blogs and portfolio websites, built with SvelteKit.
 - [kevmodrome/mistral-kit](https://github.com/kevmodrome/mistral-kit) - A prompt to code site using mistral-7b and ollama.
@@ -1328,7 +1329,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nandanmen/NotANumber](https://github.com/nandanmen/NotANumber) - An interactive blog on computer science and web dev 💡
 - [oslabs-beta/Svelte-DevTools-Plus](https://github.com/oslabs-beta/Svelte-DevTools-Plus) - Adds Svelte debugging tools to the Chrome Developer Tools
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [MaximeHeckel/blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com) - Codebase of @MaximeHeckel's personal blog
 - [MaximeHeckel/design-system](https://github.com/MaximeHeckel/design-system) - My personal design system
