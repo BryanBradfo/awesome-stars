@@ -505,7 +505,7 @@
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric) - End of life; no longer maintained. Final public release: v26.06.01.
 - [lanl/scico](https://github.com/lanl/scico) - Scientific Computational Imaging COde
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -1219,6 +1219,7 @@
 ## Shell 
 
 - [BryanBradfo/ClaudeCodeVitals](https://github.com/BryanBradfo/ClaudeCodeVitals) - A beautiful Claude Code statusline with live progress bars for context, rate limits, and cost, plus model-aware accents, rich git, PR status, and a session reminder. Single Bash script, Linux, no Nerd
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [blader/taskmaster](https://github.com/blader/taskmaster) - Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -1296,7 +1297,6 @@
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
-- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [BryanBradfo/mantispdf](https://github.com/BryanBradfo/mantispdf) - 📄 Blazing-fast Rust/WASM PDF editor to split and format files locally in your browser
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
@@ -1310,7 +1310,7 @@
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
-- [andresreibel/ClaudexBar](https://github.com/andresreibel/ClaudexBar) - Codex and Claude subscription usage meter for macOS and Linux.
+- [andresreibel/AIBar](https://github.com/andresreibel/AIBar) - Codex and Claude subscription usage meter for macOS and Linux.
 - [swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli) - Generate editable Excalidraw diagrams from text or JSON for agents and developer workflows
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [turt2live/matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) - TypeScript/JavaScript SDK for Matrix bots
