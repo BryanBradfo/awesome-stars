@@ -847,7 +847,7 @@
 - [nunchux-ai/nunchaku](https://github.com/nunchux-ai/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 - [nunchux-ai/deepcompressor](https://github.com/nunchux-ai/deepcompressor) - Model Compression Toolbox for Large Language Models and Diffusion Models
 - [snap-research/stable-flow](https://github.com/snap-research/stable-flow) - Official implementation for "Stable Flow: Vital Layers for Training-Free Image Editing" [CVPR 2025]
-- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
+- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [CUT3R/CUT3R](https://github.com/CUT3R/CUT3R) - Official implementation of Continuous 3D Perception Model with Persistent State
 - [aimagelab/dress-code](https://github.com/aimagelab/dress-code) - Dress Code: High-Resolution Multi-Category Virtual Try-On. ECCV 2022
