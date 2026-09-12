@@ -325,7 +325,7 @@
 - [helblazer811/ConceptAttention](https://github.com/helblazer811/ConceptAttention) - ConceptAttention: A method for interpreting multi-modal diffusion transformers.
 - [kylesargent/FlowMo](https://github.com/kylesargent/FlowMo) - Official PyTorch implementation of FlowMo.
 - [bytedance/1d-tokenizer](https://github.com/bytedance/1d-tokenizer) - This repo contains the code for 1D tokenizer and generator
-- [apple/ml-flextok](https://github.com/apple/ml-flextok) - FlexTok: Resampling Images into 1D Token Sequences of Flexible Length
+- [apple-aiml-research/ml-flextok](https://github.com/apple-aiml-research/ml-flextok) - FlexTok: Resampling Images into 1D Token Sequences of Flexible Length
 - [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - A repository consisting of paper/architecture replications of classic/SOTA AI/ML papers in pytorch
 - [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [m1balcerak/EnergyMatching](https://github.com/m1balcerak/EnergyMatching) - [NeurIPS 2025] Official repository for "Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling"
@@ -804,7 +804,7 @@
 - [KohakuBlueleaf/HDM](https://github.com/KohakuBlueleaf/HDM) - Home Made Diffusion Models
 - [Martinser/REG](https://github.com/Martinser/REG) - [NeurIPS 2025 Oral] Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think
 - [SakanaAI/treequest](https://github.com/SakanaAI/treequest) - A Tree Search Library with Flexible API for LLM Inference-Time Scaling
-- [apple/ml-l3m](https://github.com/apple/ml-l3m) - Large multi-modal models (L3M) pre-training.
+- [apple-aiml-research/ml-l3m](https://github.com/apple-aiml-research/ml-l3m) - Large multi-modal models (L3M) pre-training.
 - [ttktjmt/mjswan](https://github.com/ttktjmt/mjswan) - MuJoco Simulation on WebAssembly with Neural networks
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [AlmondGod/tinyworlds](https://github.com/AlmondGod/tinyworlds) - A minimal implementation of DeepMind's Genie world model
@@ -905,13 +905,13 @@
 - [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
 - [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 - [MolecularAI/aizynthfinder](https://github.com/MolecularAI/aizynthfinder) - A tool for retrosynthetic planning
-- [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
+- [apple-aiml-research/ml-diffucoder](https://github.com/apple-aiml-research/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [flagos-ai/FlagScale](https://github.com/flagos-ai/FlagScale) - FlagScale is a large model toolkit based on open-sourced projects.
 - [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) - Solve Visual Understanding with Reinforced VLMs
 - [Yan98/GTA1](https://github.com/Yan98/GTA1) - 
 - [microsoft/WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) - Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.
 - [inworld-ai/tts](https://github.com/inworld-ai/tts) - Inworld TTS
-- [apple/ml-inrflow](https://github.com/apple/ml-inrflow) - 
+- [apple-aiml-research/ml-inrflow](https://github.com/apple-aiml-research/ml-inrflow) - 
 - [yyfz/Pi3](https://github.com/yyfz/Pi3) - [ICLR 2026] π^3: Permutation-Equivariant Visual Geometry Learning
 - [naver-ai/RapFlow-TTS](https://github.com/naver-ai/RapFlow-TTS) - 
 - [KellerJordan/Muon](https://github.com/KellerJordan/Muon) - Muon is an optimizer for hidden layers in neural networks
@@ -1039,7 +1039,7 @@
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [RLHFlow/Online-RLHF](https://github.com/RLHFlow/Online-RLHF) - A recipe for online RLHF and online iterative DPO.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [THU-BPM/MarkLLM](https://github.com/THU-BPM/MarkLLM) - [EMNLP 2024 Demo] MarkLLM: An Open-Source Toolkit for LLM Watermarking
 - [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
@@ -1075,7 +1075,7 @@
 - [google-deepmind/treescope](https://github.com/google-deepmind/treescope) - An interactive HTML pretty-printer for machine learning research in IPython notebooks.
 - [huggingface/gym-hil](https://github.com/huggingface/gym-hil) - Human in the loop Reinforcement Learning suite
 - [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM) - The simplest, fastest repository for training/finetuning small-sized VLMs.
-- [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
+- [apple-aiml-research/ml-fastvlm](https://github.com/apple-aiml-research/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
@@ -1130,7 +1130,7 @@
 - [Notmarrco/speedtest-cli](https://github.com/Notmarrco/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
+- [apple-aiml-research/ml-depth-pro](https://github.com/apple-aiml-research/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
