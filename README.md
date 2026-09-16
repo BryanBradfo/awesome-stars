@@ -214,7 +214,6 @@
 ## Java 
 
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [BryanBradfo/formula1-simulator](https://github.com/BryanBradfo/formula1-simulator) - Become the director of an F1 team, earn money to improve your two cars for the next races! :)
@@ -796,7 +795,7 @@
 - [lehduong/OneDiffusion](https://github.com/lehduong/OneDiffusion) - Official implementation of OneDiffusion paper (CVPR 2025)
 - [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 - [chungmin99/pyroki](https://github.com/chungmin99/pyroki) - A Modular Toolkit for Robot Kinematic Optimization
-- [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
+- [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning with multi-physics/renderer support
 - [mani-skill/ManiSkill](https://github.com/mani-skill/ManiSkill) - Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark
 - [DecartAI/Lucy-Edit-ComfyUI](https://github.com/DecartAI/Lucy-Edit-ComfyUI) - 
 - [OpenGVLab/ScaleCUA](https://github.com/OpenGVLab/ScaleCUA) - [ICLR 2026 Oral] ScaleCUA is the open-sourced computer use agents that can operate on cross-platform environments (Windows, macOS, Ubuntu, Android).
@@ -1295,6 +1294,7 @@
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [BryanBradfo/mantispdf](https://github.com/BryanBradfo/mantispdf) - 📄 Blazing-fast Rust/WASM PDF editor to split and format files locally in your browser
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
