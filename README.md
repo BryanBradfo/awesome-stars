@@ -87,7 +87,7 @@
 - [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [NVIDIA/cuda-checkpoint](https://github.com/NVIDIA/cuda-checkpoint) - CUDA checkpoint and restore utility
 - [BryanBradfo/c-101](https://github.com/BryanBradfo/c-101) - Solve all the exercises, understand core C programming concepts, and get hands-on experience with debugging, type systems, pointers, memory, and more. :)
-- [RickHolaaa/2024-my-git](https://github.com/RickHolaaa/2024-my-git) - 
+- [RickHolaaa/old-2024-my-git](https://github.com/RickHolaaa/old-2024-my-git) - 
 
 ## C# # 
 
@@ -215,10 +215,11 @@
 ## Java 
 
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [BryanBradfo/formula1-simulator](https://github.com/BryanBradfo/formula1-simulator) - Become the director of an F1 team, earn money to improve your two cars for the next races! :)
-- [RickHolaaa/2023-farm-ecosys-simulation](https://github.com/RickHolaaa/2023-farm-ecosys-simulation) - 
+- [RickHolaaa/old-2023-farm-ecosys-simulation](https://github.com/RickHolaaa/old-2023-farm-ecosys-simulation) - 
 - [yennanliu/CS_basics](https://github.com/yennanliu/CS_basics) - My CS learning : algorithm, data structure, and system design | #SE
 
 ## JavaScript 
@@ -268,7 +269,7 @@
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [hamidatb/FluteVision](https://github.com/hamidatb/FluteVision) - Gamifying learning the flute
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [RickHolaaa/2020-discord-bot](https://github.com/RickHolaaa/2020-discord-bot) - 
+- [RickHolaaa/old-2020-discord-bot](https://github.com/RickHolaaa/old-2020-discord-bot) - 
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 
 ## Julia 
@@ -487,7 +488,7 @@
 
 ## PHP 
 
-- [RickHolaaa/2022-sales-analysis-website](https://github.com/RickHolaaa/2022-sales-analysis-website) - 
+- [RickHolaaa/old-2022-sales-analysis-website](https://github.com/RickHolaaa/old-2022-sales-analysis-website) - 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
 ## PowerShell 
@@ -628,7 +629,7 @@
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [HobbitLong/SupContrast](https://github.com/HobbitLong/SupContrast) - PyTorch implementation of "Supervised Contrastive Learning"  (and SimCLR incidentally)
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.
 - [yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox) - DeepVis Toolbox
 - [leopard-ai/betty](https://github.com/leopard-ai/betty) - Betty: an automatic differentiation library for generalized meta-learning and multilevel optimization
 - [cvxpy/cvxpylayers](https://github.com/cvxpy/cvxpylayers) - Differentiable convex optimization layers
@@ -930,7 +931,7 @@
 - [ModelTC/LightX2V-Qwen-Image-Lightning](https://github.com/ModelTC/LightX2V-Qwen-Image-Lightning) - Qwen-Image-Lightning: Speed up Qwen-Image model with distillation
 - [modelscope/DiffSynth-Engine](https://github.com/modelscope/DiffSynth-Engine) - 
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM5.3, Gemma4, Llava, Phi4
 - [huggingface/kernels](https://github.com/huggingface/kernels) - Build compute kernels and load them from the Hub.
 - [flashinfer-ai/cubloaty](https://github.com/flashinfer-ai/cubloaty) - a size profiler for cuda binary
 - [OPPO-Mente-Lab/X2Edit](https://github.com/OPPO-Mente-Lab/X2Edit) - AAAI2026  X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning
@@ -1045,9 +1046,9 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [MzeroMiko/VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models，code is based on mamba
 - [valfvo/hackathon-yubu-code](https://github.com/valfvo/hackathon-yubu-code) - 
-- [RickHolaaa/2024-video-generator](https://github.com/RickHolaaa/2024-video-generator) - 
-- [RickHolaaa/2024-rss-webhook](https://github.com/RickHolaaa/2024-rss-webhook) - 
-- [RickHolaaa/2024-qr-code-generator](https://github.com/RickHolaaa/2024-qr-code-generator) - 
+- [RickHolaaa/old-2024-video-generator](https://github.com/RickHolaaa/old-2024-video-generator) - 
+- [RickHolaaa/old-2024-rss-webhook](https://github.com/RickHolaaa/old-2024-rss-webhook) - 
+- [RickHolaaa/old-2024-qr-code-generator](https://github.com/RickHolaaa/old-2024-qr-code-generator) - 
 - [RickHolaaa/2025-Epita-Programmation-par-Contraintes-Sujet-8](https://github.com/RickHolaaa/2025-Epita-Programmation-par-Contraintes-Sujet-8) - 8. Calendrier sportif (Sports Tournament Scheduling)
 - [BryanBradfo/humanAI](https://github.com/BryanBradfo/humanAI) - ❤️‍🩹 RAG chatbot using streamlit to answer questions about help documents & solidarity ✊
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -1272,6 +1273,7 @@
 
 ## TypeScript 
 
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1281,7 +1283,7 @@
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -1296,7 +1298,6 @@
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [BryanBradfo/mantispdf](https://github.com/BryanBradfo/mantispdf) - 📄 Blazing-fast Rust/WASM PDF editor to split and format files locally in your browser
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
