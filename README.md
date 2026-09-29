@@ -178,7 +178,7 @@
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Ultrafast serverless GPU inference, sandboxes, and background jobs
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -497,6 +497,7 @@
 
 ## Python 
 
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [BryanBradfo/minidwarf](https://github.com/BryanBradfo/minidwarf) - HPC-first GPU kernel benchmark for LLMs, organized by the Berkeley Dwarfs: can a model write fast, correct CUDA for classic HPC motifs?
 - [NVIDIA/nvidia-kaggle](https://github.com/NVIDIA/nvidia-kaggle) - NVIDIA Kaggle Plugin gives agents end-to-end Kaggle competition workflows through a single skill, nvidia-kaggle-skill. It can gather competition context, study public writeups and notebooks, reproduce
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
@@ -782,7 +783,7 @@
 - [HomebrewML/HeavyBall](https://github.com/HomebrewML/HeavyBall) - Efficient optimizers
 - [cloneofsimo/repa-rf](https://github.com/cloneofsimo/repa-rf) - 
 - [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
-- [VisualComputingInstitute/diffusion-e2e-ft](https://github.com/VisualComputingInstitute/diffusion-e2e-ft) - [WACV'25 Oral] Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think
+- [RWTHVision/diffusion-e2e-ft](https://github.com/RWTHVision/diffusion-e2e-ft) - [WACV'25 Oral] Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - [CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
 - [willisma/SiT](https://github.com/willisma/SiT) - Official PyTorch Implementation of "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers"
 - [sihyun-yu/REPA](https://github.com/sihyun-yu/REPA) - [ICLR'25 Oral] Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think
