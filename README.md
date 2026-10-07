@@ -324,7 +324,7 @@
 - [kylesargent/FlowMo](https://github.com/kylesargent/FlowMo) - Official PyTorch implementation of FlowMo.
 - [bytedance/1d-tokenizer](https://github.com/bytedance/1d-tokenizer) - This repo contains the code for 1D tokenizer and generator
 - [apple-aiml-research/ml-flextok](https://github.com/apple-aiml-research/ml-flextok) - FlexTok: Resampling Images into 1D Token Sequences of Flexible Length
-- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - A repository consisting of paper/architecture replications of classic/SOTA AI/ML papers in pytorch
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [m1balcerak/EnergyMatching](https://github.com/m1balcerak/EnergyMatching) - [NeurIPS 2025] Official repository for "Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling"
 - [lightridge/lightridge](https://github.com/lightridge/lightridge) - 
