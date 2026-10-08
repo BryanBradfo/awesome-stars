@@ -447,6 +447,7 @@
 - [ChenyangSi/FreeU](https://github.com/ChenyangSi/FreeU) - FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
 - [ecjojo/ComfyUI-Templates](https://github.com/ecjojo/ComfyUI-Templates) - Ecjojo ComfyUI Workflow Templates
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
+- [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
 - [comfy-deploy/comfydeploy](https://github.com/comfy-deploy/comfydeploy) - ComfyDeployed
 - [HHHHHejia/Awesome-AgenticLLM-RL-Papers](https://github.com/HHHHHejia/Awesome-AgenticLLM-RL-Papers) - 
 - [zeroth-robotics/zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot) - 3D-printed open-source humanoid robot platform for sim-to-real and RL
@@ -496,6 +497,7 @@
 
 ## Python 
 
+- [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) - A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [BryanBradfo/minidwarf](https://github.com/BryanBradfo/minidwarf) - HPC-first GPU kernel benchmark for LLMs, organized by the Berkeley Dwarfs: can a model write fast, correct CUDA for classic HPC motifs?
 - [NVIDIA/nvidia-kaggle](https://github.com/NVIDIA/nvidia-kaggle) - NVIDIA Kaggle Plugin gives agents end-to-end Kaggle competition workflows through a single skill, nvidia-kaggle-skill. It can gather competition context, study public writeups and notebooks, reproduce
@@ -711,7 +713,6 @@
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [midrender/mamba-chat](https://github.com/midrender/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
 - [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm) - A repository for research on medium sized language models.
-- [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
 - [aipixel/GaussianAvatar](https://github.com/aipixel/GaussianAvatar) - [CVPR 2024] The official repo for "GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians"
 - [facebookresearch/dora](https://github.com/facebookresearch/dora) - Dora is an experiment management framework. It expresses grid searches as pure python files as part of your repo. It identifies experiments with a unique hash signature. Scale up to hundreds of experi
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
