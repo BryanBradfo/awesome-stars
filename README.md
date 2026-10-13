@@ -342,7 +342,7 @@
 - [BryanBradfo/reinforcement-learning](https://github.com/BryanBradfo/reinforcement-learning) - RL | Reinforcing the learning with Reinforcement Learning. :)
 - [BryanBradfo/physics-guided-ml](https://github.com/BryanBradfo/physics-guided-ml) - 🌌 Applying artificial intelligence on gravitational lensing 🪐
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU
 - [x-datascience-datacamp/datacamp-master](https://github.com/x-datascience-datacamp/datacamp-master) - Datacamp class for master student - 1 week
 - [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
 - [BryanBradfo/optimisation-algorithms](https://github.com/BryanBradfo/optimisation-algorithms) - Comprehensive collection exploring optimization algorithms for machine learning, covering both theoretical foundations and practical applications. :)
@@ -498,6 +498,7 @@
 
 ## Python 
 
+- [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (OCRBench)
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 - [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) - A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
@@ -705,7 +706,7 @@
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
 - [showlab/X-Adapter](https://github.com/showlab/X-Adapter) - [CVPR 2024] X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
 - [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning
-- [finegrain-ai/refiners](https://github.com/finegrain-ai/refiners) - A microframework on top of PyTorch with first-class citizen APIs for foundation model adaptation
+- [finegrain-ai/refiners](https://github.com/finegrain-ai/refiners) - Refiners (discontinued early 2025) was a microframework on top of PyTorch with first-class citizen APIs for foundation model adaptation.
 - [VITA-Group/LightGaussian](https://github.com/VITA-Group/LightGaussian) - [NeurIPS 2024 Spotlight]"LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS", Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
 - [bitsandbytes-foundation/bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
