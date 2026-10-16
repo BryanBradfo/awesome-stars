@@ -232,7 +232,6 @@
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [ascodeasice/three-js-birthday-cake](https://github.com/ascodeasice/three-js-birthday-cake) - A website which shows a 3D birthday cake and plays happy birthday song for your friend
 - [VIDAKHOSHPEY22/Birthday-Cake-Blow-Candle](https://github.com/VIDAKHOSHPEY22/Birthday-Cake-Blow-Candle) - 🎂 Blow out a virtual candle with your voice! Shout "Happy Birthday!" to make a wish. Try it now! 🕯️🎙️✨
 - [ProgrammerGaurav/happy-birthday](https://github.com/ProgrammerGaurav/happy-birthday) - Happy Birthday
@@ -498,6 +497,7 @@
 
 ## Python 
 
+- [EleutherAI/sparsify](https://github.com/EleutherAI/sparsify) - Sparsify transformers with SAEs and transcoders
 - [cocoabench/cocoa-agent](https://github.com/cocoabench/cocoa-agent) - An agent framework for building and evaluating general digital agents.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (OCRBench)
@@ -1164,6 +1164,8 @@
 
 ## Rust 
 
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -1177,6 +1179,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [BryanBradfo/sweepkit](https://github.com/BryanBradfo/sweepkit) - 🧹Rust-powered blazing-fast CLI tool to scan & clean unused dev dependencies (node_modules, pycache .venv, cargo cache…) across all ecosystems 🦀
 - [denosaurs/netsaur](https://github.com/denosaurs/netsaur) - Powerful Powerful Machine Learning library with GPU, CPU and WASM backends
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
