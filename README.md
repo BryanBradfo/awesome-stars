@@ -100,6 +100,7 @@
 
 ## C++ 
 
+- [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [NVIDIA/cudf](https://github.com/NVIDIA/cudf) - cuDF - GPU DataFrame Library
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
@@ -495,6 +496,7 @@
 
 ## Python 
 
+- [project-numina/numina-lean-agent](https://github.com/project-numina/numina-lean-agent) - 
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [EleutherAI/bergson](https://github.com/EleutherAI/bergson) - Mapping out the "memory" of neural nets with data attribution
 - [EleutherAI/sparsify](https://github.com/EleutherAI/sparsify) - Sparsify transformers with SAEs and transcoders
@@ -1448,7 +1450,7 @@
 
 ## Vue 
 
-- [atinux/content-wind](https://github.com/atinux/content-wind) - A lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
+- [atinux/content-wind](https://github.com/atinux/content-wind) - A lightweight Nuxt template to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
 
 ## Wolfram Language 
 
