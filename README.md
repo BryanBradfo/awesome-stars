@@ -105,7 +105,7 @@
 - [NVIDIA/cudf](https://github.com/NVIDIA/cudf) - cuDF - GPU DataFrame Library
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [meta-pytorch/torchcomms](https://github.com/meta-pytorch/torchcomms) - torchcomms: a modern PyTorch communications API
+- [meta-pytorch/torchcomms](https://github.com/meta-pytorch/torchcomms) - (deprecated) torchcomms: a modern PyTorch communications API
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
 - [keith2018/TinyTorch](https://github.com/keith2018/TinyTorch) - A lightweight deep learning training framework implemented from scratch in C++, featuring a PyTorch-style API.
@@ -495,6 +495,7 @@
 
 ## Python 
 
+- [huggingface/paperswithcode](https://github.com/huggingface/paperswithcode) - This repository hosts the code of Papers with Code, which tracks trending AI research with code, datasets and leaderboards.
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 - [project-numina/numina-lean-agent](https://github.com/project-numina/numina-lean-agent) - 
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
@@ -646,7 +647,7 @@
 - [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams) - Flexible Feature visualization on PyTorch, for research and art :mag_right: :computer: :brain: :art:
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
-- [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
+- [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning and latent world models on images.
 - [TorchEnsemble-Community/Ensemble-Pytorch](https://github.com/TorchEnsemble-Community/Ensemble-Pytorch) - A unified ensemble framework for PyTorch to improve the performance and robustness of your deep learning model.
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.
 - [vturrisi/solo-learn](https://github.com/vturrisi/solo-learn) - solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
@@ -1184,7 +1185,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [BryanBradfo/sweepkit](https://github.com/BryanBradfo/sweepkit) - 🧹Rust-powered blazing-fast CLI tool to scan & clean unused dev dependencies (node_modules, pycache .venv, cargo cache…) across all ecosystems 🦀
 - [denosaurs/netsaur](https://github.com/denosaurs/netsaur) - Powerful Powerful Machine Learning library with GPU, CPU and WASM backends
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -1329,7 +1330,7 @@
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
-- [andresreibel/AIBar](https://github.com/andresreibel/AIBar) - Codex and Claude subscription usage meter for macOS and Linux.
+- [andresreibel/aibar](https://github.com/andresreibel/aibar) - Codex and Claude subscription usage meter for macOS and Linux.
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli) - Generate editable Excalidraw diagrams from text or JSON for agents and developer workflows
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
