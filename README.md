@@ -495,6 +495,8 @@
 
 ## Python 
 
+- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [huggingface/paperswithcode](https://github.com/huggingface/paperswithcode) - This repository hosts the code of Papers with Code, which tracks trending AI research with code, datasets and leaderboards.
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 - [project-numina/numina-lean-agent](https://github.com/project-numina/numina-lean-agent) - 
@@ -1217,7 +1219,7 @@
 - [karpathy/rustbpe](https://github.com/karpathy/rustbpe) - The missing tiktoken training code
 - [pydantic/monty](https://github.com/pydantic/monty) - A secure Python sandbox, written in Rust, for code written by AI.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [dottxt-ai/outlines-core](https://github.com/dottxt-ai/outlines-core) - Faster structured generation
@@ -1289,6 +1291,7 @@
 
 ## TypeScript 
 
+- [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) - An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.
@@ -1298,7 +1301,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
+- [meta/astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1356,7 +1359,7 @@
 - [MaximeHeckel/design-system](https://github.com/MaximeHeckel/design-system) - My personal design system
 - [BennyKok/comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) - An open source `vercel` like deployment platform for Comfy UI
 - [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte) - An unstyled drawer component for Svelte.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
@@ -1405,7 +1408,7 @@
 - [bombshell-dev/tab](https://github.com/bombshell-dev/tab) - shell autocompletions for javascript CLIs
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
-- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
+- [callstack/agent-device](https://github.com/callstack/agent-device) - Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [timqian/bambot](https://github.com/timqian/bambot) - Play with open source, low-cost AI robots with ease 🤖
