@@ -82,6 +82,7 @@
 
 ## C 
 
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [AmineDiro/ferrules](https://github.com/AmineDiro/ferrules) - Modern, fast, document parser written in  🦀
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
@@ -638,7 +639,7 @@
 - [azavea/raster-vision](https://github.com/azavea/raster-vision) - An open source library and framework for deep learning on satellite and aerial imagery.
 - [facebookresearch/ppuda](https://github.com/facebookresearch/ppuda) - Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
-- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Train and evaluate embeddings for similarity search with PyTorch. Includes contrastive losses, hard example mining, samplers, and retrieval metrics.
 - [HobbitLong/SupContrast](https://github.com/HobbitLong/SupContrast) - PyTorch implementation of "Supervised Contrastive Learning"  (and SimCLR incidentally)
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
 - [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.
