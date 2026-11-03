@@ -101,6 +101,7 @@
 
 ## C++ 
 
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [NVIDIA/cudf](https://github.com/NVIDIA/cudf) - cuDF - GPU DataFrame Library
@@ -563,7 +564,7 @@
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [frotms/PaddleOCR2Pytorch](https://github.com/frotms/PaddleOCR2Pytorch) - PaddleOCR inference in PyTorch. Converted from [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [Dilfiraa/PS_Loss](https://github.com/Dilfiraa/PS_Loss) - 
-- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
 - [Mega4alik/ollm](https://github.com/Mega4alik/ollm) - 
 - [RickHolaaa/2025-generative-information-retrieval-ultron](https://github.com/RickHolaaa/2025-generative-information-retrieval-ultron) - 
 - [evaleval/every_eval_ever](https://github.com/evaleval/every_eval_ever) - Every Eval Ever is a shared schema and crowdsourced eval database. It defines a standardized metadata format for storing AI evaluation results — from leaderboard scrapes and research papers to local e
