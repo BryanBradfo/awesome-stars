@@ -102,14 +102,13 @@
 ## C++ 
 
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-- [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [NVIDIA/cudf](https://github.com/NVIDIA/cudf) - cuDF - GPU DataFrame Library
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [meta-pytorch/torchcomms](https://github.com/meta-pytorch/torchcomms) - (deprecated) torchcomms: a modern PyTorch communications API
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
+- [cactus-compute/engine](https://github.com/cactus-compute/engine) - 2bit quants, kernels and runtime for consumer devices.
 - [keith2018/TinyTorch](https://github.com/keith2018/TinyTorch) - A lightweight deep learning training framework implemented from scratch in C++, featuring a PyTorch-style API.
 - [johnmai-dev/ANE-LM](https://github.com/johnmai-dev/ANE-LM) - LLM inference on Apple Neural Engine (ANE)
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
@@ -502,6 +501,7 @@
 - [Neywa-Labs/mlx-audio](https://github.com/Neywa-Labs/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [huggingface/paperswithcode](https://github.com/huggingface/paperswithcode) - This repository hosts the code of Papers with Code, which tracks trending AI research with code, datasets and leaderboards.
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+- [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [project-numina/numina-lean-agent](https://github.com/project-numina/numina-lean-agent) - 
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [EleutherAI/bergson](https://github.com/EleutherAI/bergson) - Mapping out the "memory" of neural nets with data attribution
@@ -1332,7 +1332,7 @@
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [badlogic/gmcli](https://github.com/badlogic/gmcli) - Minimal Gmail CLI
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
-- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
