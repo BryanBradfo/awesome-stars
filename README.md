@@ -955,7 +955,7 @@
 - [willisma/diffuse_nnx](https://github.com/willisma/diffuse_nnx) - A comprehensive JAX/NNX library for diffusion and flow matching generative algorithms, featuring DiT (Diffusion Transformer) and its variants as the primary backbone with support for ImageNet training
 - [imlixinyang/FlashWorld](https://github.com/imlixinyang/FlashWorld) - Code for "FlashWorld: High-quality 3D Scene Generation within Seconds" (ICLR 2026 Oral)
 - [ChenFengYe/motion-latent-diffusion](https://github.com/ChenFengYe/motion-latent-diffusion) - [CVPR 2023] Executing your Commands via Motion Diffusion in Latent Space, a fast and high-quality motion diffusion model
-- [Lakonik/LakonLab](https://github.com/Lakonik/LakonLab) - Official implementation of DWD, AnisoFlow, AsymFlow, pi-Flow, GMFlow
+- [Lakonik/LakonLab](https://github.com/Lakonik/LakonLab) - Official implementation of pi-H3, AsymFlow, pi-Flow, GMFlow
 - [InternRobotics/AdaMimic](https://github.com/InternRobotics/AdaMimic) - [ICRA 2026 Oral] Official implementation of "Towards Adaptable Humanoid Control via Adaptive Motion Tracking"
 - [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
 - [RadicalNumerics/RND1](https://github.com/RadicalNumerics/RND1) - RND1: Scaling Diffusion Language Models
