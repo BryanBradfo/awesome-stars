@@ -844,7 +844,7 @@
 - [logtd/ComfyUI-Fluxtapoz](https://github.com/logtd/ComfyUI-Fluxtapoz) - Nodes for image juxtaposition for Flux in ComfyUI
 - [franciszzj/Leffa](https://github.com/franciszzj/Leffa) - [CVPR 2025] Learning Flow Fields in Attention for Controllable Person Image Generation
 - [pkulwj1994/diff_instruct](https://github.com/pkulwj1994/diff_instruct) - official code for Diff-Instruct algorithm for one-step diffusion distillation
-- [google-deepmind/mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for sim and real robot demos on top of MuJoCo.
+- [google-deepmind/mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for sim and real robot demos curated by the MuJoCo team.
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
@@ -956,7 +956,7 @@
 - [imlixinyang/FlashWorld](https://github.com/imlixinyang/FlashWorld) - Code for "FlashWorld: High-quality 3D Scene Generation within Seconds" (ICLR 2026 Oral)
 - [ChenFengYe/motion-latent-diffusion](https://github.com/ChenFengYe/motion-latent-diffusion) - [CVPR 2023] Executing your Commands via Motion Diffusion in Latent Space, a fast and high-quality motion diffusion model
 - [Lakonik/LakonLab](https://github.com/Lakonik/LakonLab) - Official implementation of pi-H3, AsymFlow, pi-Flow, GMFlow
-- [InternRobotics/AdaMimic](https://github.com/InternRobotics/AdaMimic) - [ICRA 2026 Oral] Official implementation of "Towards Adaptable Humanoid Control via Adaptive Motion Tracking"
+- [Sage-PhysicalAI/AdaMimic](https://github.com/Sage-PhysicalAI/AdaMimic) - [ICRA 2026 Oral] Official implementation of "Towards Adaptable Humanoid Control via Adaptive Motion Tracking"
 - [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
 - [RadicalNumerics/RND1](https://github.com/RadicalNumerics/RND1) - RND1: Scaling Diffusion Language Models
 - [duriantaco/dinov3clip](https://github.com/duriantaco/dinov3clip) - Caption free adapter that maps DINOv3 image embeddings into CLIP space so you can do zero-shot text -&gt; image or image -&gt; text with CLIP’s text tower
