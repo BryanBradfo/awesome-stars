@@ -870,7 +870,7 @@
 - [CUT3R/CUT3R](https://github.com/CUT3R/CUT3R) - Official implementation of Continuous 3D Perception Model with Persistent State
 - [aimagelab/dress-code](https://github.com/aimagelab/dress-code) - Dress Code: High-Resolution Multi-Category Virtual Try-On. ECCV 2022
 - [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - Synthetic data curation for post-training and structured data extraction
-- [SimplexLab/TorchJD](https://github.com/SimplexLab/TorchJD) - Library for Jacobian descent with PyTorch. It enables the optimization of neural networks with multiple losses (e.g. multi-task learning).
+- [SimplexLab/TorchJD](https://github.com/SimplexLab/TorchJD) - PyTorch library to train models with multiple losses. It supports Jacobian descent (JD) and scalarization methods.
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [tyshiwo1/DiM-DiffusionMamba](https://github.com/tyshiwo1/DiM-DiffusionMamba) - The official implementation of DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis
 - [zai-org/VisionReward](https://github.com/zai-org/VisionReward) - [AAAI 2026] VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation
