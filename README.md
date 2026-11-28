@@ -147,6 +147,7 @@
 
 ## Cuda 
 
+- [HenryNdubuaku/cognition-compendium](https://github.com/HenryNdubuaku/cognition-compendium) - Become a cracked researcher/engineer with this unconventional textbook covering maths, computing, cognition, ML and Neuro.
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 
 ## Cython 
@@ -417,6 +418,7 @@
 
 ## Others 
 
+- [pytorch-fdn/wg-ospo-and-academic-outreach](https://github.com/pytorch-fdn/wg-ospo-and-academic-outreach) - OSPO and Academic Outreach Working Group
 - [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 - [Deep-Spark/DeepSpark](https://github.com/Deep-Spark/DeepSpark) - The DeepSpark open platform selects hundreds of open source application algorithms and models that are deeply coupled with industrial applications, supports mainstream application frameworks, and prov
 - [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
@@ -968,6 +970,7 @@
 - [XiaomiMiMo/MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio) - MiMo-Audio: Audio Language Models are Few-Shot Learners
 - [NVlabs/DiffusionNFT](https://github.com/NVlabs/DiffusionNFT) - [ICLR 2026 Oral] DiffusionNFT: Online Diffusion Reinforcement with Forward Process
 - [PKU-YuanGroup/Edit-R1](https://github.com/PKU-YuanGroup/Edit-R1) - Edit-R1: Reinforce Image Editing with Diffusion Negative-Aware Finetuning and MLLM Implicit Feedback
+- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [apapiu/transformer_latent_diffusion](https://github.com/apapiu/transformer_latent_diffusion) - Text to Image Latent Diffusion using a Transformer core
 - [LifuWang-66/DistillT5](https://github.com/LifuWang-66/DistillT5) - (CVPR 2025) Scailing Down Text Encoders of Text-to-Image Diffusion Models
 - [haidog-yaqub/EzAudio](https://github.com/haidog-yaqub/EzAudio) - High-quality Text-to-Audio Generation with Efficient Diffusion Transformer
@@ -1220,6 +1223,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device.
+- [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - 100+ animations running on the GPU, built with Exact, Rust and WebGPU
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
@@ -1327,7 +1331,6 @@
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -1410,9 +1413,7 @@
 - [Hugo-Dz/exe](https://github.com/Hugo-Dz/exe) - Pack your web app as a single executable binary with zero runtime dependencies
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
-- [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
-- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [bombshell-dev/tab](https://github.com/bombshell-dev/tab) - shell autocompletions for javascript CLIs
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
